@@ -43,7 +43,6 @@ let forEachLoop = (a, b, c, d, e) =>{
         a, b, c, d, e
     ]
     elements.forEach(item =>{
-        if(item)
         console.log(item)
     })
     return elements;
