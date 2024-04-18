@@ -1,5 +1,5 @@
 let doWhileLoop = (isTrue)=>{
-    let = condition = isTrue;
+    let condition = isTrue;
     let count = 1;
     do{
         console.log('do while loop iteration: ' + count + ' times');
